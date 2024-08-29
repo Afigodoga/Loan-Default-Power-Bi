@@ -1,2 +1,2 @@
 # Loan-Default-Power-Bi
-A power BI on loan default conducted at Ecobank, E-process International
+This is a Power BI on loan default where we're trying to find out the features which are reponsible for the highest risk in indivaul defaulting on loans.
